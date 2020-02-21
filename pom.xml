@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>mmg_pet_clinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>mmg_pet_clinic</name>
 	<description>Demo project for Pet CLinic</description>
 	<packaging>pom</packaging>
@@ -41,7 +41,7 @@
 	
 	<scm>
 		<developerConnection>scm:git:https://github.com/mertoo76/mmg_pet_clinic.git</developerConnection>
-	  
+	  <tag>mmg_pet_clinic-0.0.1</tag>
   </scm>
 
 	<modules>
