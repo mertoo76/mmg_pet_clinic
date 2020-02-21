@@ -40,7 +40,6 @@
 	</build>
 	
 	<scm>
-	<connection>scm:git:http://${env.GIT_USERNAME}:${env.GIT_PASSWORD}@github.com/mertoo76/mmg_pet_clinic.git</connection>
 		<developerConnection>scm:git:https://github.com/mertoo76/mmg_pet_clinic.git</developerConnection>
 	  
   </scm>
