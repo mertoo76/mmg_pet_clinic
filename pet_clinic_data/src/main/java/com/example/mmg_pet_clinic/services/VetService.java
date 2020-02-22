@@ -5,12 +5,6 @@ import java.util.Set;
 import com.example.mmg_pet_clinic.model.Vet;
 
 
-public interface VetService {
+public interface VetService extends CrudServices<Vet,Long>{
 
-	Vet findById(Long id);
-	
-	Vet save(Vet vet);
-	
-	Set<Vet> findAll();
-	
 }
