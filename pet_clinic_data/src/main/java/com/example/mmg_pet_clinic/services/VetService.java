@@ -7,7 +7,7 @@ import com.example.mmg_pet_clinic.model.Vet;
 
 public interface VetService {
 
-	Vet findById(long id);
+	Vet findById(Long id);
 	
 	Vet save(Vet vet);
 	

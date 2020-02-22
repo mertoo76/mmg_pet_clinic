@@ -7,7 +7,7 @@ import com.example.mmg_pet_clinic.model.Owner;
 public interface OwnerService {
 
 	
-	Owner findById(long id);
+	Owner findById(Long id);
 	
 	Owner save(Owner owner);
 	
